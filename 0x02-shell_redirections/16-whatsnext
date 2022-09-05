@@ -1,2 +1,2 @@
 #!/bin/bash
-gep -iA 3 root /etc/password
+gep -i "root" -A 3 /etc/password
